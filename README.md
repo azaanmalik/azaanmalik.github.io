@@ -38,8 +38,9 @@ This repository does not contain API secrets. Email is a `mailto:` link and requ
 - `index.html` → about, education, contact and navigation.
 - `style.css` → palette, responsive styling, effects.
 
-Note: the education timeline currently retains the original CV's unconfirmed ongoing date, explicitly marked for update. Verify all career dates before professional publication.
+Note: the education and skills reflect the information supplied by the portfolio owner; verify professional dates and links periodically.
 
 ## Quality notes
 
 This is a static frontend, not a server-backed application. The canvas is throttled and pauses when not visible; reduced-motion preferences disable ambient animations. No actual deployment is claimed until GitHub Pages publishes successfully.
+
